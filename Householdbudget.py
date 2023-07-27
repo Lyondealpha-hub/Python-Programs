@@ -1,3 +1,6 @@
+
+print("A program to hold and calc house hold items")
+
 setupCat = ''
 header = list("")
 subheader = list("")
